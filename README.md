@@ -1,6 +1,7 @@
 # Palestra sobre Organização Pessoal
 
 Ministrada por [Cristiano Silva Jr.](http://www.crisjr.eng.br). Feita utilizando [Reveal.js](https://github.com/hakimel/reveal.js).
+Disponível no [5apps](https://persorg.5apps.com/)
 
 ## Agradecimentos
 
